@@ -52,7 +52,7 @@ Jack Skeleton
   
 ## printable like: https://www.printables.com/model/1868783-jack-skeleton
 ## About the Project
-### **Jack Skeleton** - It is a 3d Printable Halloween theme 3d model of Jack Skeleton holding two Lanterns made in Blender. In which We can use Dec it for Halloween decoration.
+### **Jack Skeleton** - It is a 3d Printable Halloween theme 3d model of Jack Skeleton holding two Lanterns made in Blender. In which We can use for Halloween decoration.
 
 
 ## why i made this? 
